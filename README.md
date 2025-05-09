@@ -2,7 +2,7 @@
 
 My name name is Kajeth (He/Him). I am a undergraduate student in the Life Sciences but also self-taught coder.
 
-My coding language is primarily Python, which I know how to analyze data (Pandas) & visualize it (Matplotlib & Seaborn).I know a bit about Java and HTML5. I hope to also learn R-analysis & C.
+My coding language is primarily Python, which I know how to analyze data (Pandas) & visualize it (Matplotlib & Seaborn). I know a bit about Java and HTML5. I hope to also learn R-analysis & C.
 
 I hope to keep growing as a coder, so please feel free to give me feedback on my work. I would appreciate it!
 
